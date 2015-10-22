@@ -1,0 +1,15 @@
+
+/***********************************************OUTPUT*****************
+
+
+C:\Users\Amit\go\src\
+go run post.go
+
+C:\Users\Amit\go\src>
+curl -H "Content-Type: application/json" -d '{"name":"Rock"}' http://localhost:8080/hello
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100    46  100    29  100    17   1812   1062 --:--:-- --:--:-- --:--:-- 29000
+{"greeting":"Hello, Rock!"}
+
+**********************************************************************/
